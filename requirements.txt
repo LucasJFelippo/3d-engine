@@ -1,0 +1,4 @@
+Program developed and executed in Python version 3.11.
+
+Used Libraries:
+    pyxel
